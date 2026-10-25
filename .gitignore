@@ -1,0 +1,19 @@
+# Datasets
+dataset/
+brats_dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Trained models
+*.keras
+*.h5
+*.pt
+*.pth
+*.weights
+
+# Secrets and environments
+.env
+.venv/
+venv/
